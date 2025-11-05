@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2216E8
 test_cases:
 - expected_values:
-    MAZDA_GEN_FC: 27.92096
-  response: 7E8056216E823BD
+    MAZDA_GEN_FC: 24.47242
+  response: 7E8056216E81F53
 - expected_values:
     MAZDA_GEN_FC: 51.56329
   response: 7E8056216E84200
