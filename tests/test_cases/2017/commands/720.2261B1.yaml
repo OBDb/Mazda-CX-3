@@ -1,6 +1,14 @@
 command_id: 720.2261B1
 test_cases:
 - expected_values:
+    MAZDA_FLV: 85
+    MAZDA_FUEL_LEVEL: 55
+  response: 728046261B155
+- expected_values:
+    MAZDA_FLV: 86
+    MAZDA_FUEL_LEVEL: 55
+  response: 728046261B156
+- expected_values:
     MAZDA_FLV: 94
     MAZDA_FUEL_LEVEL: 55
   response: 728046261B15E
