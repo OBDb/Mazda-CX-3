@@ -1,0 +1,9 @@
+command_id: 720.222A05
+test_cases:
+- expected_values:
+    MAZDA_TP_1: 0
+  response: 72804622A0500
+- expected_values:
+    MAZDA_TP_1: 2.29291
+    MAZDA_TP_RL: 2.29291
+  response: 72804622A05A7
