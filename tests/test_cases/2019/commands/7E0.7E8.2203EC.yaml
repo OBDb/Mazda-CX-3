@@ -4,6 +4,9 @@ test_cases:
     MAZDA_IGN_CORR_CYL1: 0
   response: 7E8056203EC0000
 - expected_values:
+    MAZDA_IGN_CORR_CYL1: 0.01172
+  response: 7E8056203EC0006
+- expected_values:
     MAZDA_IGN_CORR_CYL1: 0.0957
   response: 7E8056203EC0031
 - expected_values:

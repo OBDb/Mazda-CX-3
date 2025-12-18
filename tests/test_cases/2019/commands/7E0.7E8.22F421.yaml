@@ -4,5 +4,5 @@ test_cases:
     MAZDA_MIL_DIST: 144
   response: 7E80562F4210090
 - expected_values:
-    MAZDA_MIL_DIST: 180
-  response: 7E80562F42100B4
+    MAZDA_MIL_DIST: 206
+  response: 7E80562F42100CE
