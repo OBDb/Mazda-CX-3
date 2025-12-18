@@ -4,11 +4,11 @@ test_cases:
     MAZDA_HPFP_DES: 1450.3774
   response: 7E8056203DC03E8
 - expected_values:
+    MAZDA_HPFP_DES: 2594.72516
+  response: 7E8056203DC06FD
+- expected_values:
     MAZDA_HPFP_DES: 2639.68686
   response: 7E8056203DC071C
-- expected_values:
-    MAZDA_HPFP_DES: 2957.31951
-  response: 7E8056203DC07F7
 - expected_values:
     MAZDA_HPFP_DES: 3482.35613
   response: 7E8056203DC0961
