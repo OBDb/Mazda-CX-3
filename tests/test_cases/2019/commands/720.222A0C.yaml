@@ -31,3 +31,11 @@ test_cases:
     MAZDA_TT_3: 36
     MAZDA_TT_RR: 36
   response: 72804622A0C56
+- expected_values:
+    MAZDA_TT_3: 37
+    MAZDA_TT_RR: 37
+  response: 72804622A0C57
+- expected_values:
+    MAZDA_TT_3: 38
+    MAZDA_TT_RR: 38
+  response: 72804622A0C58
