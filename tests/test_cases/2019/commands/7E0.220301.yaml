@@ -5,14 +5,14 @@ test_cases:
     MAZDA_MAP_V: 0.6875
   response: 7E80562030102C0
 - expected_values:
-    MAZDA_MAP: 0.753
-    MAZDA_MAP_V: 0.73535
-  response: 7E80562030102F1
+    MAZDA_MAP: 0.77
+    MAZDA_MAP_V: 0.75195
+  response: '7E8056203010302'
 - expected_values:
-    MAZDA_MAP: 1.026
-    MAZDA_MAP_V: 1.00195
-  response: '7E8056203010402'
+    MAZDA_MAP: 1.781
+    MAZDA_MAP_V: 1.73926
+  response: 7E80562030106F5
 - expected_values:
-    MAZDA_MAP: 3.911
-    MAZDA_MAP_V: 3.81934
-  response: 7E8056203010F47
+    MAZDA_MAP: 3.895
+    MAZDA_MAP_V: 3.80371
+  response: 7E8056203010F37
