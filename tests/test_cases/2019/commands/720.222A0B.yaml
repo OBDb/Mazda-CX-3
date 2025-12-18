@@ -4,30 +4,6 @@ test_cases:
     MAZDA_TT_2: -50
   response: 72804622A0B00
 - expected_values:
-    MAZDA_TT_2: 19
-    MAZDA_TT_FL: 19
-  response: 72804622A0B45
-- expected_values:
-    MAZDA_TT_2: 20
-    MAZDA_TT_FL: 20
-  response: 72804622A0B46
-- expected_values:
-    MAZDA_TT_2: 21
-    MAZDA_TT_FL: 21
-  response: 72804622A0B47
-- expected_values:
-    MAZDA_TT_2: 22
-    MAZDA_TT_FL: 22
-  response: 72804622A0B48
-- expected_values:
-    MAZDA_TT_2: 23
-    MAZDA_TT_FL: 23
-  response: 72804622A0B49
-- expected_values:
-    MAZDA_TT_2: 24
-    MAZDA_TT_FL: 24
-  response: 72804622A0B4A
-- expected_values:
-    MAZDA_TT_2: 25
-    MAZDA_TT_FL: 25
-  response: 72804622A0B4B
+    MAZDA_TT_2: 41
+    MAZDA_TT_FL: 41
+  response: 72804622A0B5B
