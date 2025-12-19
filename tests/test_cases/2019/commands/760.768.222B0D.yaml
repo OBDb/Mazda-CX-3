@@ -8,7 +8,7 @@ test_cases:
   response: 76805622B0D8000
 - expected_values:
     MAZDA_BRK_FL_P: 255
-  response: 76805622B0DFFFD
+  response: 76805622B0DFFFB
 - expected_values:
     MAZDA_BRK_FL_P: 255
-  response: 76805622B0DFFFE
+  response: 76805622B0DFFFF
