@@ -2,13 +2,13 @@ command_id: 7E0.7E8.2203E8
 test_cases:
 - expected_values:
     MAZDA_OAR: 1
-  response: 7E8056203E8AE78
+  response: 7E8056203E8A697
+- expected_values:
+    MAZDA_OAR: 1
+  response: 7E8056203E8A902
 - expected_values:
     MAZDA_OAR: 1
   response: 7E8056203E8C2FE
-- expected_values:
-    MAZDA_OAR: 1
-  response: 7E8056203E8C40B
 - expected_values:
     MAZDA_OAR: 1
   response: 7E8056203E8C76C
