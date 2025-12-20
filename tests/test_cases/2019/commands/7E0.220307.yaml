@@ -13,6 +13,6 @@ test_cases:
     MAZDA_LPFP_DUTY: 61.74011
   response: 7E8056203074F07
 - expected_values:
-    MAZDA_FP_LD: 34.55558
-    MAZDA_LPFP_DUTY: 69.11011
-  response: '7E8056203075876'
+    MAZDA_FP_LD: 35.38109
+    MAZDA_LPFP_DUTY: 70.76111
+  response: 7E8056203075A93
