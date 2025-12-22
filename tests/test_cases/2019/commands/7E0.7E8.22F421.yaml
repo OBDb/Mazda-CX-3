@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F421
 test_cases:
 - expected_values:
-    MAZDA_MIL_DIST: 144
-  response: 7E80562F4210090
+    MAZDA_MIL_DIST: 1
+  response: 7E80562F4210001
 - expected_values:
     MAZDA_MIL_DIST: 206
   response: 7E80562F42100CE
