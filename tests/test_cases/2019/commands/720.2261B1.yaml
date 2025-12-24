@@ -5,6 +5,6 @@ test_cases:
     MAZDA_FUEL_LEVEL: 5
   response: 728046261B105
 - expected_values:
-    MAZDA_FLV: 41
-    MAZDA_FUEL_LEVEL: 41
-  response: 728046261B129
+    MAZDA_FLV: 46
+    MAZDA_FUEL_LEVEL: 46
+  response: 728046261B12E
