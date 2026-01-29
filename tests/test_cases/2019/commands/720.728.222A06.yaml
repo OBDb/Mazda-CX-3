@@ -1,0 +1,8 @@
+command_id: 720.728.222A06
+test_cases:
+- expected_values:
+    CX3_TP_RL: 1.85355
+  response: 72804622A0687
+- expected_values:
+    CX3_TP_RL: 2.40275
+  response: 72804622A06AF

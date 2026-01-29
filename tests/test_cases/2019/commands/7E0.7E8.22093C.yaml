@@ -1,18 +1,14 @@
 command_id: 7E0.7E8.22093C
 test_cases:
 - expected_values:
-    MAZDA_ETC_ACT_DEG: 0.47266
-    MAZDA_ETC_ANG_ACT: 0.47266
+    CX3_ETC_ACT_DEG: 0.47266
   response: 7E80562093C00F2
 - expected_values:
-    MAZDA_ETC_ACT_DEG: 4
-    MAZDA_ETC_ANG_ACT: 4
+    CX3_ETC_ACT_DEG: 4
   response: 7E80562093C0800
 - expected_values:
-    MAZDA_ETC_ACT_DEG: 12.49805
-    MAZDA_ETC_ANG_ACT: 12.49805
+    CX3_ETC_ACT_DEG: 12.49805
   response: 7E80562093C18FF
 - expected_values:
-    MAZDA_ETC_ACT_DEG: 86.11719
-    MAZDA_ETC_ANG_ACT: 86.11719
+    CX3_ETC_ACT_DEG: 86.11719
   response: 7E80562093CAC3C

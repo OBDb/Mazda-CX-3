@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221310
+test_cases:
+- expected_values:
+    CX3_EOT: 17.15
+  response: '7E8056213101653'
+- expected_values:
+    CX3_EOT: 18.88
+  response: '7E8056213101700'
+- expected_values:
+    CX3_EOT: 34.23
+  response: 7E8056213101CFF
+- expected_values:
+    CX3_EOT: 113.96
+  response: 7E8056213103C24
