@@ -1,17 +1,17 @@
 { "commands": [
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A05"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A05"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018], "from": 2020 },
   "signals": [
     {"id": "CX3_TP_FL", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmin": 0, "unit": "bars" }, "name": "Front left tire pressure", "suggestedMetric": "frontLeftTirePressure"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A06"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A06"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018], "from": 2020 },
   "signals": [
     {"id": "CX3_TP_RL", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmin": 0, "unit": "bars" }, "name": "Rear left tire pressure", "suggestedMetric": "rearLeftTirePressure"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A07"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A07"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018], "from": 2020 },
   "signals": [
     {"id": "CX3_TP_RR", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmin": 0, "unit": "bars" }, "name": "Rear right tire pressure", "suggestedMetric": "rearRightTirePressure"}
   ]},
-{ "hdr": "720", "rax": "728", "cmd": {"22": "2A08"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
+{ "hdr": "720", "rax": "728", "cmd": {"22": "2A08"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018], "from": 2020 },
   "signals": [
     {"id": "CX3_TP_FR", "path": "Tires", "fmt": { "len": 8, "max": 3.5, "mul": 1373, "div": 100000, "nullmin": 0, "unit": "bars" }, "name": "Front right tire pressure", "suggestedMetric": "frontRightTirePressure"}
   ]},
