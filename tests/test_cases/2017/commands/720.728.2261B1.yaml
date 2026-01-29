@@ -1,0 +1,8 @@
+command_id: 720.728.2261B1
+test_cases:
+- expected_values:
+    CX3_FLV: 22
+  response: 728046261B116
+- expected_values:
+    CX3_FLV: 95
+  response: 728046261B15F
