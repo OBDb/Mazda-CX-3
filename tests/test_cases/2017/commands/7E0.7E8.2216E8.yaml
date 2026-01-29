@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2216E8
 test_cases:
 - expected_values:
-    MAZDA_GEN_FC: 22.38804
+    CX3_GEN_FC: 22.38804
   response: 7E8056216E81CA8
 - expected_values:
-    MAZDA_GEN_FC: 51.56329
+    CX3_GEN_FC: 51.56329
   response: 7E8056216E84200
 - expected_values:
-    MAZDA_GEN_FC: 58.57633
+    CX3_GEN_FC: 58.57633
   response: 7E8056216E84AFA
 - expected_values:
-    MAZDA_GEN_FC: 59.12871
+    CX3_GEN_FC: 59.12871
   response: 7E8056216E84BAF

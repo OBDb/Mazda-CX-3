@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.220914
 test_cases:
 - expected_values:
-    MAZDA_APP1_V: 0.78
+    CX3_APP1_V: 0.78
   response: 7E805620914030C
 - expected_values:
-    MAZDA_APP1_V: 1.279
+    CX3_APP1_V: 1.279
   response: 7E80562091404FF
 - expected_values:
-    MAZDA_APP1_V: 2.048
+    CX3_APP1_V: 2.048
   response: '7E8056209140800'
 - expected_values:
-    MAZDA_APP1_V: 4.054
+    CX3_APP1_V: 4.054
   response: 7E8056209140FD6
