@@ -7,8 +7,8 @@ test_cases:
     CX3_APP1_V: 1.279
   response: 7E80562091404FF
 - expected_values:
-    CX3_APP1_V: 2.048
-  response: '7E8056209140800'
+    CX3_APP1_V: 1.536
+  response: '7E8056209140600'
 - expected_values:
     CX3_APP1_V: 4.054
   response: 7E8056209140FD6
