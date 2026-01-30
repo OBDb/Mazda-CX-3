@@ -35,7 +35,7 @@
   "signals": [
     {"id": "CX3_FLV", "path": "Fuel", "fmt": { "len": 8, "max": 255, "unit": "liters" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
-{ "hdr": "723", "rax": "72B", "cmd": {"22": "DD01"}, "freq": 1, "dbgfilter": { "to": 2016, "years": [2018], "from": 2020 },
+{ "hdr": "723", "rax": "72B", "dbg": true, "cmd": {"22": "DD01"}, "freq": 1,
   "signals": [
     {"id": "CX3_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
