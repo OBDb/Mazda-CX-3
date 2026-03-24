@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2216E8
+test_cases:
+- expected_values:
+    CX3_GEN_FC: 42.34379
+  response: 7E8056216E83633
+- expected_values:
+    CX3_GEN_FC: 43.01518
+  response: 7E8056216E8370F
+- expected_values:
+    CX3_GEN_FC: 43.3753
+  response: 7E8056216E83785
+- expected_values:
+    CX3_GEN_FC: 44.06806
+  response: 7E8056216E83868
+- expected_values:
+    CX3_GEN_FC: 46.11582
+  response: 7E8056216E83B07
+- expected_values:
+    CX3_GEN_FC: 46.92454
+  response: 7E8056216E83C10
+- expected_values:
+    CX3_GEN_FC: 46.99779
+  response: 7E8056216E83C28
+- expected_values:
+    CX3_GEN_FC: 48.51759
+  response: 7E8056216E83E1A

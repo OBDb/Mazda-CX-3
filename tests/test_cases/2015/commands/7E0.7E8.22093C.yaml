@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22093C
+test_cases:
+- expected_values:
+    CX3_ETC_ACT_DEG: 3.61523
+  response: 7E80562093C073B
+- expected_values:
+    CX3_ETC_ACT_DEG: 3.64062
+  response: 7E80562093C0748
+- expected_values:
+    CX3_ETC_ACT_DEG: 3.66602
+  response: 7E80562093C0755
+- expected_values:
+    CX3_ETC_ACT_DEG: 3.69141
+  response: 7E80562093C0762
+- expected_values:
+    CX3_ETC_ACT_DEG: 4.30664
+  response: 7E80562093C089D
+- expected_values:
+    CX3_ETC_ACT_DEG: 4.33203
+  response: 7E80562093C08AA
+- expected_values:
+    CX3_ETC_ACT_DEG: 4.35742
+  response: 7E80562093C08B7
+- expected_values:
+    CX3_ETC_ACT_DEG: 4.51172
+  response: 7E80562093C0906

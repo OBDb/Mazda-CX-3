@@ -1,0 +1,26 @@
+command_id: 7E1.7E9.221E1C
+test_cases:
+- expected_values:
+    CX3_TRANS_T_V6: 167.1125
+  response: 7E905621E1C04B1
+- expected_values:
+    CX3_TRANS_T_V6: 167.5625
+  response: 7E905621E1C04B5
+- expected_values:
+    CX3_TRANS_T_V6: 168.575
+  response: 7E905621E1C04BE
+- expected_values:
+    CX3_TRANS_T_V6: 168.8
+  response: 7E905621E1C04C0
+- expected_values:
+    CX3_TRANS_T_V6: 169.3625
+  response: 7E905621E1C04C5
+- expected_values:
+    CX3_TRANS_T_V6: 170.2625
+  response: 7E905621E1C04CD
+- expected_values:
+    CX3_TRANS_T_V6: 170.4875
+  response: 7E905621E1C04CF
+- expected_values:
+    CX3_TRANS_T_V6: 171.05
+  response: 7E905621E1C04D4
