@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.220301
+test_cases:
+- expected_values:
+    CX3_MAP: 1.376
+  response: '7E8056203010560'
+- expected_values:
+    CX3_MAP: 1.429
+  response: '7E8056203010595'
+- expected_values:
+    CX3_MAP: 1.431
+  response: '7E8056203010597'
+- expected_values:
+    CX3_MAP: 1.439
+  response: 7E805620301059F
+- expected_values:
+    CX3_MAP: 1.686
+  response: '7E8056203010696'
+- expected_values:
+    CX3_MAP: 1.693
+  response: 7E805620301069D
+- expected_values:
+    CX3_MAP: 1.7
+  response: 7E80562030106A4
+- expected_values:
+    CX3_MAP: 1.739
+  response: 7E80562030106CB
