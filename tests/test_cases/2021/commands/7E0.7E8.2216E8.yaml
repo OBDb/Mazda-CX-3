@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2216E8
+test_cases:
+- expected_values:
+    CX3_GEN_FC: 36.04791
+  response: 7E8056216E82E24
+- expected_values:
+    CX3_GEN_FC: 46.86961
+  response: 7E8056216E83BFE
+- expected_values:
+    CX3_GEN_FC: 50.78202
+  response: 7E8056216E84100
+- expected_values:
+    CX3_GEN_FC: 58.61295
+  response: 7E8056216E84B06

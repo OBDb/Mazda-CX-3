@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220415
+test_cases:
+- expected_values:
+    CX3_EOP: 136
+  response: '7E8056204150088'
+- expected_values:
+    CX3_EOP: 189
+  response: 7E80562041500BD
