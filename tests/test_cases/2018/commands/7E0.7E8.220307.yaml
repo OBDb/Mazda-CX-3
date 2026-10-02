@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220307
 test_cases:
 - expected_values:
-    CX3_FP_LD: 29.29274
+    CX3_FP_LD: 58.58459
   response: 7E8056203074AFD
 - expected_values:
-    CX3_FP_LD: 29.2958
+    CX3_FP_LD: 58.5907
   response: 7E8056203074AFF
 - expected_values:
-    CX3_FP_LD: 29.29732
+    CX3_FP_LD: 58.59375
   response: 7E8056203074B00

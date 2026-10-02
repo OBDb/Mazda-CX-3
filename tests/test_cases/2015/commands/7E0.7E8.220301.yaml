@@ -1,26 +1,26 @@
 command_id: 7E0.7E8.220301
 test_cases:
 - expected_values:
-    CX3_MAP: 1.376
+    CX3_MAP: 1.34375
   response: '7E8056203010560'
 - expected_values:
-    CX3_MAP: 1.429
+    CX3_MAP: 1.39551
   response: '7E8056203010595'
 - expected_values:
-    CX3_MAP: 1.431
+    CX3_MAP: 1.39746
   response: '7E8056203010597'
 - expected_values:
-    CX3_MAP: 1.439
+    CX3_MAP: 1.40527
   response: 7E805620301059F
 - expected_values:
-    CX3_MAP: 1.686
+    CX3_MAP: 1.64648
   response: '7E8056203010696'
 - expected_values:
-    CX3_MAP: 1.693
+    CX3_MAP: 1.65332
   response: 7E805620301069D
 - expected_values:
-    CX3_MAP: 1.7
+    CX3_MAP: 1.66016
   response: 7E80562030106A4
 - expected_values:
-    CX3_MAP: 1.739
+    CX3_MAP: 1.69824
   response: 7E80562030106CB
